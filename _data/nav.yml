@@ -1,3 +1,6 @@
+- name: "Other"
+  link: "other"
+
 - name: "Contact"
   link: "contact"
 
@@ -6,3 +9,4 @@
 
 - name: "About"
   link: "/researcher/"
+
